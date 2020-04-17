@@ -1,0 +1,39 @@
+
+Clover Installer r5106 (v1.1.2), 2020-03-27 05:48:11
+macOS Version 10.15.3 (Build 19D76)
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/raphael/Desktop/CloverBackUp/WDS500G3X0C-00SJG0 Media/r5106_2020-03-27_05-48-06/EFI.
+Target volume: /Volumes/EFI
+BSD Name:      disk0s1
+Filesystem:    FAT32
+Is internal:   true
+Is writable:   true
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
++ ../UEFI/AudioDxe.efi
++ ../UEFI/DataHubDxe.efi
++ ../UEFI/FSInject.efi
++ ../UEFI/SMCHelper.efi
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/AppleImageCodec.efi
++ ../UEFI/AppleKeyAggregator.efi
++ ../UEFI/AppleKeyFeeder.efi
++ ../UEFI/AppleUITheme.efi
++ ../UEFI/FirmwareVolume.efi
++ ../UEFI/HashServiceFix.efi
++ ../UEFI/AptioMemoryFix.efi
++ ../BIOS/FSInject.efi
++ ../BIOS/ApfsDriverLoader.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
