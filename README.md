@@ -2,6 +2,7 @@
 ## Gigabyte Z390 Aorus Pro
 
 This is my clover installation for the Gigabyte Z390 Aorus Pro.
+
 Currently running macOS Catalina 10.15.4
 
 ### System spec
