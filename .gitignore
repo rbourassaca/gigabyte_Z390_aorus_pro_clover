@@ -5,7 +5,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -26,3 +27,22 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# ---> Clover UEFI
+
+# Ignoring the documentation
+doc/
+
+# Ignoring drivers that we do not use
+drivers/BIOS
+drivers/off
+
+# Ignoring kexts that we do not use
+kexts/off
+
+# Ignoring folders that we do not use
+OEM/
+ROM/
+
+# Ignoring themes that we do not use except the one that we are currently using
+themes/*
+!themes/Clovy
