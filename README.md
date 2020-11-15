@@ -19,3 +19,6 @@ Everything I need.
 
 ### What is not working?
 Can't think of anything.
+
+## Important
+I'm not running Mac OS on my desktop anymore, this wont be updated.
